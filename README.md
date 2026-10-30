@@ -1,6 +1,5 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Daniel Pinales
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
 I'm a sophomore majoring in Information Systems and Technology, I'm a full time student and I like photography.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
